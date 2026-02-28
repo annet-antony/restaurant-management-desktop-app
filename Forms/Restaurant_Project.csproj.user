@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\User\source\repos\Restaurant_Project\Restaurant_Project\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Add_Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Wastage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Cathegory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashBoard_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Email_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exit_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Tables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="change_username.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Table_reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Online_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Today_Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view_wastage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_cathegory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Food.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_table_reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
